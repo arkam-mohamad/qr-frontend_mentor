@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-component-with-css-flexbox-qy_kcy32mR)
-- Live Site URL: [Add live site URL here](https://arkam-mohamad.github.io/qr-frontend_mentor/)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-qr-component-with-css-flexbox-qy_kcy32mR)
+- Live Site URL: (https://arkam-mohamad.github.io/qr-frontend_mentor/)
 
 ## My process
 
@@ -36,4 +36,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arkam-mohamad)
